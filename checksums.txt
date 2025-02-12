@@ -1,260 +1,300 @@
-Wifi_Ariele.ino.bin: 0x5C15DD1D
-CanrinPicoV1.2.ino.bin: 0x807C91B2
-Blink_bv.bin: 0x98E6FF07
-soft.bin: 0xAEAB671B
-Advanced/Advanced.ino.partitions.bin: 0x381F5EFE
-Advanced/Advanced.ino.merged.bin: 0xD92E9257
-Advanced/Advanced.ino.bootloader.bin: 0x9843C7B5
-Advanced/Advanced.ino.bin: 0xF6F0D15E
-Little_FS_setup/Little_FS_setup.ino.bootloader.bin: 0x9843C7B5
-Little_FS_setup/Little_FS_setup.ino.merged.bin: 0x3D3BC44F
-Little_FS_setup/Little_FS_setup.ino.partitions.bin: 0x381F5EFE
-Little_FS_setup/Little_FS_setup.ino.bin: 0xE89E5953
-Little_FS_Ariele/Little_FS_Ariele.ino.partitions.bin: 0x381F5EFE
-Little_FS_Ariele/Little_FS_Ariele.ino.bootloader.bin: 0x9843C7B5
-Little_FS_Ariele/Little_FS_Ariele.ino.merged.bin: 0x613C5A96
-Little_FS_Ariele/Little_FS_Ariele.ino.bin: 0x25043607
-logger_Ariele/logger_Ariele.ino.partitions.bin: 0x381F5EFE
-logger_Ariele/logger_Ariele.ino.bin: 0x1C947D6C
-logger_Ariele/logger_Ariele.ino.merged.bin: 0xCCC721FD
-logger_Ariele/logger_Ariele.ino.bootloader.bin: 0x9843C7B5
-threadedCommunication/threadedCommunication.ino.bin: 0x6435B461
-threadedCommunication/threadedCommunication.ino.bootloader.bin: 0x9843C7B5
-threadedCommunication/threadedCommunication.ino.merged.bin: 0x2177B6B9
-threadedCommunication/threadedCommunication.ino.partitions.bin: 0x381F5EFE
-Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.bootloader.bin: 0x9843C7B5
-Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.bin: 0x4820DE68
-Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.merged.bin: 0x1CE5B274
-Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.partitions.bin: 0x381F5EFE
-GSM_Connect/GSM_Connect.ino.bootloader.bin: 0x9843C7B5
-GSM_Connect/GSM_Connect.ino.partitions.bin: 0x381F5EFE
-GSM_Connect/GSM_Connect.ino.merged.bin: 0x8F13BEA7
-GSM_Connect/GSM_Connect.ino.bin: 0x66E317A3
-GSM_UDP_Send/GSM_UDP_Send.ino.partitions.bin: 0x381F5EFE
-GSM_UDP_Send/GSM_UDP_Send.ino.bin: 0x89D76518
-GSM_UDP_Send/GSM_UDP_Send.ino.bootloader.bin: 0x9843C7B5
-GSM_UDP_Send/GSM_UDP_Send.ino.merged.bin: 0x28AD20DF
-threadedMeasurements/threadedMeasurements.ino.bootloader.bin: 0x9843C7B5
-threadedMeasurements/threadedMeasurements.ino.bin: 0x9D8D6D46
-threadedMeasurements/threadedMeasurements.ino.partitions.bin: 0x381F5EFE
-threadedMeasurements/threadedMeasurements.ino.merged.bin: 0x4D12ECD0
-MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.bin: 0x91574310
-MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.merged.bin: 0x657B41ED
-MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.partitions.bin: 0x381F5EFE
-Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.bin: 0x5FC7B104
-Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.partitions.bin: 0x381F5EFE
-Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.merged.bin: 0x4066C014
-Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.bootloader.bin: 0x9843C7B5
-Little_FS_format/Little_FS_format.ino.partitions.bin: 0x381F5EFE
-Little_FS_format/Little_FS_format.ino.bin: 0xBB8C3075
-Little_FS_format/Little_FS_format.ino.merged.bin: 0xF55DF758
-Little_FS_format/Little_FS_format.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_Location/MultiConnect_Location.ino.partitions.bin: 0x381F5EFE
-MultiConnect_Location/MultiConnect_Location.ino.bin: 0x50AA513D
-MultiConnect_Location/MultiConnect_Location.ino.merged.bin: 0xE2648EDF
-MultiConnect_Location/MultiConnect_Location.ino.bootloader.bin: 0x9843C7B5
-PM5_test_oled/PM5_test_oled.ino.merged.bin: 0xEB4A7E58
-PM5_test_oled/PM5_test_oled.ino.bootloader.bin: 0x9843C7B5
-PM5_test_oled/PM5_test_oled.ino.partitions.bin: 0x381F5EFE
-PM5_test_oled/PM5_test_oled.ino.bin: 0xA25B2504
-WiFi_UDP_Send/WiFi_UDP_Send.ino.bin: 0xBB9F8BA4
-WiFi_UDP_Send/WiFi_UDP_Send.ino.bootloader.bin: 0x9843C7B5
-WiFi_UDP_Send/WiFi_UDP_Send.ino.merged.bin: 0x726436B4
-WiFi_UDP_Send/WiFi_UDP_Send.ino.partitions.bin: 0x381F5EFE
-PM5_test/PM5_test.ino.merged.bin: 0x2A265A43
-PM5_test/PM5_test.ino.bootloader.bin: 0x9843C7B5
-PM5_test/PM5_test.ino.partitions.bin: 0x381F5EFE
-PM5_test/PM5_test.ino.bin: 0x6FB41825
-Flash_Write_and_erase/Flash_Write_and_erase.ino.bootloader.bin: 0x9843C7B5
-Flash_Write_and_erase/Flash_Write_and_erase.ino.merged.bin: 0xABC7A765
-Flash_Write_and_erase/Flash_Write_and_erase.ino.bin: 0x7D01A6ED
-Flash_Write_and_erase/Flash_Write_and_erase.ino.partitions.bin: 0x381F5EFE
-Little_FS_write/Little_FS_write.ino.merged.bin: 0xB0919424
-Little_FS_write/Little_FS_write.ino.bin: 0x13F6FE10
-Little_FS_write/Little_FS_write.ino.bootloader.bin: 0x9843C7B5
-Little_FS_write/Little_FS_write.ino.partitions.bin: 0x381F5EFE
-show_specification/show_specification.ino.bootloader.bin: 0x9843C7B5
-show_specification/show_specification.ino.bin: 0x2A45134D
-show_specification/show_specification.ino.merged.bin: 0x70809F4B
-show_specification/show_specification.ino.partitions.bin: 0x381F5EFE
-Multi_Geolocate/Multi_Geolocate.ino.partitions.bin: 0x381F5EFE
-Multi_Geolocate/Multi_Geolocate.ino.merged.bin: 0x52FC724F
-Multi_Geolocate/Multi_Geolocate.ino.bin: 0x10382C13
-Multi_Geolocate/Multi_Geolocate.ino.bootloader.bin: 0x9843C7B5
-Canarin_V02webserial/Canarin_V02webserial.ino.partitions.bin: 0x381F5EFE
-Canarin_V02webserial/Canarin_V02webserial.ino.merged.bin: 0xF87832EA
-Canarin_V02webserial/Canarin_V02webserial.ino.bin: 0xA729B4EC
-Canarin_V02webserial/Canarin_V02webserial.ino.bootloader.bin: 0x9843C7B5
-Flash_write/Flash_write.ino.partitions.bin: 0x381F5EFE
-Flash_write/Flash_write.ino.merged.bin: 0xF30F4C98
-Flash_write/Flash_write.ino.bootloader.bin: 0x9843C7B5
-Flash_write/Flash_write.ino.bin: 0x917E1FAD
-GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.merged.bin: 0x91668886
-GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.partitions.bin: 0x381F5EFE
-GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.bin: 0x8247F661
-GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.bootloader.bin: 0x9843C7B5
-WiFi_Connect/WiFi_Connect.ino.bin: 0x45A51F1E
-WiFi_Connect/WiFi_Connect.ino.partitions.bin: 0x381F5EFE
-WiFi_Connect/WiFi_Connect.ino.merged.bin: 0x73526FAF
-WiFi_Connect/WiFi_Connect.ino.bootloader.bin: 0x9843C7B5
-TaskCommunication/TaskCommunication.ino.bin: 0x37EBD955
-TaskCommunication/TaskCommunication.ino.bootloader.bin: 0x9843C7B5
-TaskCommunication/TaskCommunication.ino.merged.bin: 0xB7A7B23D
-TaskCommunication/TaskCommunication.ino.partitions.bin: 0x381F5EFE
-CanarinOTA/CanarinOTA.ino.bin: 0x28FFD1FD
-CanarinOTA/CanarinOTA.ino.partitions.bin: 0x381F5EFE
-CanarinOTA/CanarinOTA.ino.merged.bin: 0xFA9113A9
-CanarinOTA/CanarinOTA.ino.bootloader.bin: 0x9843C7B5
-Basic/Basic.ino.bin: 0xA4670683
-Basic/Basic.ino.partitions.bin: 0x381F5EFE
-Basic/Basic.ino.merged.bin: 0x7BE64CCB
-Basic/Basic.ino.bootloader.bin: 0x9843C7B5
-TaskCommunication_split/TaskCommunication_split.ino.partitions.bin: 0x381F5EFE
-TaskCommunication_split/TaskCommunication_split.ino.merged.bin: 0xEA474539
-TaskCommunication_split/TaskCommunication_split.ino.bootloader.bin: 0x9843C7B5
-TaskCommunication_split/TaskCommunication_split.ino.bin: 0xD4184603
-Update_From_FS/Update_From_FS.ino.merged.bin: 0x773C85C6
-Update_From_FS/Update_From_FS.ino.bootloader.bin: 0x9843C7B5
-Update_From_FS/Update_From_FS.ino.partitions.bin: 0x381F5EFE
-Update_From_FS/Update_From_FS.ino.bin: 0x5100C926
-Canarin_sampling/Canarin_sampling.ino.bootloader.bin: 0x9843C7B5
-Canarin_sampling/Canarin_sampling.ino.bin: 0x73AF81A0
-Canarin_sampling/Canarin_sampling.ino.merged.bin: 0x28EB4EF9
-Canarin_sampling/Canarin_sampling.ino.partitions.bin: 0x381F5EFE
-GPS_setup/GPS_setup.ino.merged.bin: 0x7FEAF86D
-GPS_setup/GPS_setup.ino.bootloader.bin: 0x9843C7B5
-GPS_setup/GPS_setup.ino.bin: 0x54DA2EE1
-GPS_setup/GPS_setup.ino.partitions.bin: 0x381F5EFE
-WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.merged.bin: 0x789486A4
-WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.bin: 0x4D0DDFF9
-WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.bootloader.bin: 0x9843C7B5
-WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.partitions.bin: 0x381F5EFE
-Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.bin: 0x2F4FF116
-Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.bootloader.bin: 0x9843C7B5
-Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.merged.bin: 0xB9C6B193
-Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.partitions.bin: 0x381F5EFE
-Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.merged.bin: 0x7B3452FF
-Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.bootloader.bin: 0x9843C7B5
-Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.bin: 0x6BD7AFAB
-Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.partitions.bin: 0x381F5EFE
-CanarinPicoV1.5/CanarinPicoV1.5.ino.bootloader.bin: 0x9843C7B5
-CanarinPicoV1.5/CanarinPicoV1.5.ino.bin: 0x942B862F
-CanarinPicoV1.5/CanarinPicoV1.5.ino.partitions.bin: 0x381F5EFE
-CanarinPicoV1.5/CanarinPicoV1.5.ino.merged.bin: 0x0B09FE6C
-Flash_erase/Flash_erase.ino.partitions.bin: 0x381F5EFE
-Flash_erase/Flash_erase.ino.merged.bin: 0x10DB2C7B
-Flash_erase/Flash_erase.ino.bin: 0x551AB517
-Flash_erase/Flash_erase.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.partitions.bin: 0x381F5EFE
-MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.merged.bin: 0x94A90AF8
-MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.bin: 0x8B912A91
-WiFi_Location/WiFi_Location.ino.bootloader.bin: 0x9843C7B5
-WiFi_Location/WiFi_Location.ino.bin: 0xF7D45342
-WiFi_Location/WiFi_Location.ino.merged.bin: 0x82EE7161
-WiFi_Location/WiFi_Location.ino.partitions.bin: 0x381F5EFE
-Canarin_PM_sample/Canarin_PM_sample.ino.partitions.bin: 0x381F5EFE
-Canarin_PM_sample/Canarin_PM_sample.ino.bin: 0xCD932EDD
-Canarin_PM_sample/Canarin_PM_sample.ino.bootloader.bin: 0x9843C7B5
-Canarin_PM_sample/Canarin_PM_sample.ino.merged.bin: 0x56532F31
-my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.bin: 0x0E36E6F1
-my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.bootloader.bin: 0x9843C7B5
-my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.merged.bin: 0xDADCA75F
-my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.partitions.bin: 0x381F5EFE
-Canarin_SGP_sample/Canarin_SGP_sample.ino.bootloader.bin: 0x9843C7B5
-Canarin_SGP_sample/Canarin_SGP_sample.ino.partitions.bin: 0x381F5EFE
-Canarin_SGP_sample/Canarin_SGP_sample.ino.merged.bin: 0x82C90406
-Canarin_SGP_sample/Canarin_SGP_sample.ino.bin: 0x7A655D5F
-SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.bin: 0xE21CBC74
-SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.merged.bin: 0x0F726D34
-SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.partitions.bin: 0x381F5EFE
-SPIFFS_write/SPIFFS_write.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_write/SPIFFS_write.ino.partitions.bin: 0x381F5EFE
-SPIFFS_write/SPIFFS_write.ino.merged.bin: 0x371EC125
-SPIFFS_write/SPIFFS_write.ino.bin: 0x8DBBA8B0
-SPIFFS_format/SPIFFS_format.ino.partitions.bin: 0x381F5EFE
-SPIFFS_format/SPIFFS_format.ino.merged.bin: 0x7B82AE65
-SPIFFS_format/SPIFFS_format.ino.bin: 0xCFDE0125
-SPIFFS_format/SPIFFS_format.ino.bootloader.bin: 0x9843C7B5
-taskMeasurements/taskMeasurements.ino.merged.bin: 0x9D9514AA
-taskMeasurements/taskMeasurements.ino.partitions.bin: 0x381F5EFE
-taskMeasurements/taskMeasurements.ino.bin: 0x1E2F1E87
-taskMeasurements/taskMeasurements.ino.bootloader.bin: 0x9843C7B5
-Create_Request/Create_Request.ino.merged.bin: 0xC6EBD918
-Create_Request/Create_Request.ino.bootloader.bin: 0x9843C7B5
-Create_Request/Create_Request.ino.bin: 0xD57B9645
-Create_Request/Create_Request.ino.partitions.bin: 0x381F5EFE
-Little_FS_write_erase/Little_FS_write_erase.ino.bin: 0x7A60F7A7
-Little_FS_write_erase/Little_FS_write_erase.ino.partitions.bin: 0x381F5EFE
-Little_FS_write_erase/Little_FS_write_erase.ino.merged.bin: 0xC006D903
-Little_FS_write_erase/Little_FS_write_erase.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_Ariele/SPIFFS_Ariele.ino.partitions.bin: 0x381F5EFE
-SPIFFS_Ariele/SPIFFS_Ariele.ino.bin: 0x2CDAD837
-SPIFFS_Ariele/SPIFFS_Ariele.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_Ariele/SPIFFS_Ariele.ino.merged.bin: 0xB00BDD5E
-Canarin_V02webserial_/Canarin_V02webserial_.ino.partitions.bin: 0x381F5EFE
-Canarin_V02webserial_/Canarin_V02webserial_.ino.bin: 0x5ABA10CA
-Canarin_V02webserial_/Canarin_V02webserial_.ino.merged.bin: 0x92891719
-Canarin_V02webserial_/Canarin_V02webserial_.ino.bootloader.bin: 0x9843C7B5
-parseResponseUnique/parseResponseUnique.ino.partitions.bin: 0x381F5EFE
-parseResponseUnique/parseResponseUnique.ino.merged.bin: 0xF680B70D
-parseResponseUnique/parseResponseUnique.ino.bin: 0x11D865C8
-parseResponseUnique/parseResponseUnique.ino.bootloader.bin: 0x9843C7B5
-Canarin_PMU/Canarin_PMU.ino.merged.bin: 0xF655A57F
-Canarin_PMU/Canarin_PMU.ino.bootloader.bin: 0x9843C7B5
-Canarin_PMU/Canarin_PMU.ino.partitions.bin: 0x381F5EFE
-Canarin_PMU/Canarin_PMU.ino.bin: 0xB2F5E2DB
-Canarin_BME_sample/Canarin_BME_sample.ino.bootloader.bin: 0x9843C7B5
-Canarin_BME_sample/Canarin_BME_sample.ino.merged.bin: 0x0530A0F0
-Canarin_BME_sample/Canarin_BME_sample.ino.bin: 0x78C6B1B8
-Canarin_BME_sample/Canarin_BME_sample.ino.partitions.bin: 0x381F5EFE
-deserializeDeviceConfig/deserializeDeviceConfig.ino.bin: 0x98F4480E
-deserializeDeviceConfig/deserializeDeviceConfig.ino.partitions.bin: 0x381F5EFE
-deserializeDeviceConfig/deserializeDeviceConfig.ino.bootloader.bin: 0x9843C7B5
-deserializeDeviceConfig/deserializeDeviceConfig.ino.merged.bin: 0x3D376D5B
-motion_detection/motion_detection.ino.partitions.bin: 0x381F5EFE
-motion_detection/motion_detection.ino.bin: 0x1158FA5A
-motion_detection/motion_detection.ino.bootloader.bin: 0x9843C7B5
-motion_detection/motion_detection.ino.merged.bin: 0x895CE5B4
-SPIFFS_setup/SPIFFS_setup.ino.bin: 0xCA87D572
-SPIFFS_setup/SPIFFS_setup.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_setup/SPIFFS_setup.ino.merged.bin: 0xE07F3B1F
-SPIFFS_setup/SPIFFS_setup.ino.partitions.bin: 0x381F5EFE
-Expert/Expert.ino.bin: 0x5502D2CB
-Expert/Expert.ino.partitions.bin: 0x381F5EFE
-Expert/Expert.ino.merged.bin: 0xCD1750FB
-Expert/Expert.ino.bootloader.bin: 0x9843C7B5
-serializeDeviceConfig/serializeDeviceConfig.ino.merged.bin: 0x32D13E10
-serializeDeviceConfig/serializeDeviceConfig.ino.bin: 0x84EF8EA1
-serializeDeviceConfig/serializeDeviceConfig.ino.partitions.bin: 0x381F5EFE
-serializeDeviceConfig/serializeDeviceConfig.ino.bootloader.bin: 0x9843C7B5
-CanarinPicoV1.7/CanarinPicoV1.7.ino.partitions.bin: 0x381F5EFE
-CanarinPicoV1.7/CanarinPicoV1.7.ino.merged.bin: 0xD1781405
-CanarinPicoV1.7/CanarinPicoV1.7.ino.bin: 0x88C3F551
-CanarinPicoV1.7/CanarinPicoV1.7.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_Connect/MultiConnect_Connect.ino.bin: 0xBCD1553C
-MultiConnect_Connect/MultiConnect_Connect.ino.partitions.bin: 0x381F5EFE
-MultiConnect_Connect/MultiConnect_Connect.ino.merged.bin: 0x8DBC9BC9
-MultiConnect_Connect/MultiConnect_Connect.ino.bootloader.bin: 0x9843C7B5
-SPIFFS_write_erase/SPIFFS_write_erase.ino.merged.bin: 0x845EA8DA
-SPIFFS_write_erase/SPIFFS_write_erase.ino.partitions.bin: 0x381F5EFE
-SPIFFS_write_erase/SPIFFS_write_erase.ino.bin: 0xD4D855EF
-SPIFFS_write_erase/SPIFFS_write_erase.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.partitions.bin: 0x381F5EFE
-MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.merged.bin: 0x485AB6EF
-MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.bootloader.bin: 0x9843C7B5
-MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.bin: 0x88EBC566
-GSM_Location/GSM_Location.ino.partitions.bin: 0x381F5EFE
-GSM_Location/GSM_Location.ino.merged.bin: 0x1A558873
-GSM_Location/GSM_Location.ino.bin: 0x73D4B0E8
-GSM_Location/GSM_Location.ino.bootloader.bin: 0x9843C7B5
-pixels_Ariele/pixels_Ariele.ino.bootloader.bin: 0x9843C7B5
-pixels_Ariele/pixels_Ariele.ino.merged.bin: 0x6E5EAD90
-pixels_Ariele/pixels_Ariele.ino.bin: 0x4E9C4B76
-pixels_Ariele/pixels_Ariele.ino.partitions.bin: 0x381F5EFE
-GPS_Geolocate/GPS_Geolocate.ino.bootloader.bin: 0x9843C7B5
-GPS_Geolocate/GPS_Geolocate.ino.partitions.bin: 0x381F5EFE
-GPS_Geolocate/GPS_Geolocate.ino.bin: 0x955F4F97
-GPS_Geolocate/GPS_Geolocate.ino.merged.bin: 0xE5CDE4CD
+Wifi_Ariele.ino - Wifi_Ariele.ino;0x5C15DD1D
+CanrinPicoV1.2.ino - CanrinPicoV1.2.ino;0x807C91B2
+Blink_bv - Blink_bv;0x98E6FF07
+soft - soft;0xAEAB671B
+Basic_old/Basic_old.ino.bootloader - Basic_old/Basic_old.ino.bootloader;0x9843C7B5
+Basic_old/Basic_old.ino - Basic_old/Basic_old.ino;0x1DCEAE29
+Basic_old/Basic_old.ino.partitions - Basic_old/Basic_old.ino.partitions;0x381F5EFE
+Basic_old/Basic_old.ino.merged - Basic_old/Basic_old.ino.merged;0x54D6058B
+Advanced/Advanced.ino.partitions - Advanced/Advanced.ino.partitions;0x381F5EFE
+Advanced/Advanced.ino.merged - Advanced/Advanced.ino.merged;0xD92E9257
+Advanced/Advanced.ino.bootloader - Advanced/Advanced.ino.bootloader;0x9843C7B5
+Advanced/Advanced.ino - Advanced/Advanced.ino;0xF6F0D15E
+Little_FS_setup/Little_FS_setup.ino.bootloader - Little_FS_setup/Little_FS_setup.ino.bootloader;0x9843C7B5
+Little_FS_setup/Little_FS_setup.ino.merged - Little_FS_setup/Little_FS_setup.ino.merged;0x3D3BC44F
+Little_FS_setup/Little_FS_setup.ino.partitions - Little_FS_setup/Little_FS_setup.ino.partitions;0x381F5EFE
+Little_FS_setup/Little_FS_setup.ino - Little_FS_setup/Little_FS_setup.ino;0xE89E5953
+Little_FS_Ariele/Little_FS_Ariele.ino.partitions - Little_FS_Ariele/Little_FS_Ariele.ino.partitions;0x381F5EFE
+Little_FS_Ariele/Little_FS_Ariele.ino.bootloader - Little_FS_Ariele/Little_FS_Ariele.ino.bootloader;0x9843C7B5
+Little_FS_Ariele/Little_FS_Ariele.ino.merged - Little_FS_Ariele/Little_FS_Ariele.ino.merged;0x613C5A96
+Little_FS_Ariele/Little_FS_Ariele.ino - Little_FS_Ariele/Little_FS_Ariele.ino;0x25043607
+logger_Ariele/logger_Ariele.ino.partitions - logger_Ariele/logger_Ariele.ino.partitions;0x381F5EFE
+logger_Ariele/logger_Ariele.ino - logger_Ariele/logger_Ariele.ino;0x1C947D6C
+logger_Ariele/logger_Ariele.ino.merged - logger_Ariele/logger_Ariele.ino.merged;0xCCC721FD
+logger_Ariele/logger_Ariele.ino.bootloader - logger_Ariele/logger_Ariele.ino.bootloader;0x9843C7B5
+CanarinPicoV1/CanarinPicoV1.ino.merged - CanarinPicoV1/CanarinPicoV1.ino.merged;0x45B321D5
+CanarinPicoV1/CanarinPicoV1.ino.partitions - CanarinPicoV1/CanarinPicoV1.ino.partitions;0x381F5EFE
+CanarinPicoV1/CanarinPicoV1.ino.bootloader - CanarinPicoV1/CanarinPicoV1.ino.bootloader;0x9843C7B5
+CanarinPicoV1/CanarinPicoV1.ino - CanarinPicoV1/CanarinPicoV1.ino;0x0D32271A
+threadedCommunication/threadedCommunication.ino - threadedCommunication/threadedCommunication.ino;0xF57D5E31
+threadedCommunication/threadedCommunication.ino.bootloader - threadedCommunication/threadedCommunication.ino.bootloader;0x9843C7B5
+threadedCommunication/threadedCommunication.ino.merged - threadedCommunication/threadedCommunication.ino.merged;0xE26E8255
+threadedCommunication/threadedCommunication.ino.partitions - threadedCommunication/threadedCommunication.ino.partitions;0x381F5EFE
+Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.bootloader - Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.bootloader;0x9843C7B5
+Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino - Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino;0x4820DE68
+Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.merged - Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.merged;0x1CE5B274
+Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.partitions - Canarin_WiFi_SMTP_LOG_Send_log/Canarin_WiFi_SMTP_LOG_Send_log.ino.partitions;0x381F5EFE
+GSM_Connect/GSM_Connect.ino.bootloader - GSM_Connect/GSM_Connect.ino.bootloader;0x9843C7B5
+GSM_Connect/GSM_Connect.ino.partitions - GSM_Connect/GSM_Connect.ino.partitions;0x381F5EFE
+GSM_Connect/GSM_Connect.ino.merged - GSM_Connect/GSM_Connect.ino.merged;0x8F13BEA7
+GSM_Connect/GSM_Connect.ino - GSM_Connect/GSM_Connect.ino;0x66E317A3
+Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino - Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino;0xF1211E18
+Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.partitions - Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.partitions;0x381F5EFE
+Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.bootloader - Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.bootloader;0x9843C7B5
+Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.merged - Canarin_FW_Mar262024/Canarin_FW_Mar262024.ino.merged;0x25860AF0
+GSM_UDP_Send/GSM_UDP_Send.ino.partitions - GSM_UDP_Send/GSM_UDP_Send.ino.partitions;0x381F5EFE
+GSM_UDP_Send/GSM_UDP_Send.ino - GSM_UDP_Send/GSM_UDP_Send.ino;0x9C3BB6CC
+GSM_UDP_Send/GSM_UDP_Send.ino.bootloader - GSM_UDP_Send/GSM_UDP_Send.ino.bootloader;0x9843C7B5
+GSM_UDP_Send/GSM_UDP_Send.ino.merged - GSM_UDP_Send/GSM_UDP_Send.ino.merged;0xF67218F9
+threadedMeasurements/threadedMeasurements.ino.bootloader - threadedMeasurements/threadedMeasurements.ino.bootloader;0x9843C7B5
+threadedMeasurements/threadedMeasurements.ino - threadedMeasurements/threadedMeasurements.ino;0xD83A5917
+threadedMeasurements/threadedMeasurements.ino.partitions - threadedMeasurements/threadedMeasurements.ino.partitions;0x381F5EFE
+threadedMeasurements/threadedMeasurements.ino.merged - threadedMeasurements/threadedMeasurements.ino.merged;0x89BCB411
+MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.bootloader - MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.bootloader;0x9843C7B5
+MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino - MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino;0x91574310
+MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.merged - MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.merged;0x657B41ED
+MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.partitions - MultiConnect_CanarinOTA/MultiConnect_CanarinOTA.ino.partitions;0x381F5EFE
+Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino - Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino;0x5FC7B104
+Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.partitions - Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.partitions;0x381F5EFE
+Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.merged - Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.merged;0x4066C014
+Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.bootloader - Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929/Canarin_WiFi_SMTP_LOG_Send_log_copy_20250129163929.ino.bootloader;0x9843C7B5
+Little_FS_format/Little_FS_format.ino.partitions - Little_FS_format/Little_FS_format.ino.partitions;0x381F5EFE
+Little_FS_format/Little_FS_format.ino - Little_FS_format/Little_FS_format.ino;0xBB8C3075
+Little_FS_format/Little_FS_format.ino.merged - Little_FS_format/Little_FS_format.ino.merged;0xF55DF758
+Little_FS_format/Little_FS_format.ino.bootloader - Little_FS_format/Little_FS_format.ino.bootloader;0x9843C7B5
+MultiConnect_Location/MultiConnect_Location.ino.partitions - MultiConnect_Location/MultiConnect_Location.ino.partitions;0x381F5EFE
+MultiConnect_Location/MultiConnect_Location.ino - MultiConnect_Location/MultiConnect_Location.ino;0x50AA513D
+MultiConnect_Location/MultiConnect_Location.ino.merged - MultiConnect_Location/MultiConnect_Location.ino.merged;0xE2648EDF
+MultiConnect_Location/MultiConnect_Location.ino.bootloader - MultiConnect_Location/MultiConnect_Location.ino.bootloader;0x9843C7B5
+PM5_test_oled/PM5_test_oled.ino.merged - PM5_test_oled/PM5_test_oled.ino.merged;0x8036A441
+PM5_test_oled/PM5_test_oled.ino.bootloader - PM5_test_oled/PM5_test_oled.ino.bootloader;0x9843C7B5
+PM5_test_oled/PM5_test_oled.ino.partitions - PM5_test_oled/PM5_test_oled.ino.partitions;0x381F5EFE
+PM5_test_oled/PM5_test_oled.ino - PM5_test_oled/PM5_test_oled.ino;0x12818ACF
+WiFi_UDP_Send/WiFi_UDP_Send.ino - WiFi_UDP_Send/WiFi_UDP_Send.ino;0x4A0F6994
+WiFi_UDP_Send/WiFi_UDP_Send.ino.bootloader - WiFi_UDP_Send/WiFi_UDP_Send.ino.bootloader;0x9843C7B5
+WiFi_UDP_Send/WiFi_UDP_Send.ino.merged - WiFi_UDP_Send/WiFi_UDP_Send.ino.merged;0x2324ACA5
+WiFi_UDP_Send/WiFi_UDP_Send.ino.partitions - WiFi_UDP_Send/WiFi_UDP_Send.ino.partitions;0x381F5EFE
+PM5_test/PM5_test.ino.merged - PM5_test/PM5_test.ino.merged;0x9C4B9033
+PM5_test/PM5_test.ino.bootloader - PM5_test/PM5_test.ino.bootloader;0x9843C7B5
+PM5_test/PM5_test.ino.partitions - PM5_test/PM5_test.ino.partitions;0x381F5EFE
+PM5_test/PM5_test.ino - PM5_test/PM5_test.ino;0xAAEB33A1
+Flash_Write_and_erase/Flash_Write_and_erase.ino.bootloader - Flash_Write_and_erase/Flash_Write_and_erase.ino.bootloader;0x9843C7B5
+Flash_Write_and_erase/Flash_Write_and_erase.ino.merged - Flash_Write_and_erase/Flash_Write_and_erase.ino.merged;0xABC7A765
+Flash_Write_and_erase/Flash_Write_and_erase.ino - Flash_Write_and_erase/Flash_Write_and_erase.ino;0x7D01A6ED
+Flash_Write_and_erase/Flash_Write_and_erase.ino.partitions - Flash_Write_and_erase/Flash_Write_and_erase.ino.partitions;0x381F5EFE
+CanarinPicoV1.05/CanarinPicoV1.05.ino - CanarinPicoV1.05/CanarinPicoV1.05.ino;0x2D5AA20A
+CanarinPicoV1.05/CanarinPicoV1.05.ino.partitions - CanarinPicoV1.05/CanarinPicoV1.05.ino.partitions;0x381F5EFE
+CanarinPicoV1.05/CanarinPicoV1.05.ino.merged - CanarinPicoV1.05/CanarinPicoV1.05.ino.merged;0x375D272A
+CanarinPicoV1.05/CanarinPicoV1.05.ino.bootloader - CanarinPicoV1.05/CanarinPicoV1.05.ino.bootloader;0x9843C7B5
+Little_FS_write/Little_FS_write.ino.merged - Little_FS_write/Little_FS_write.ino.merged;0xB0919424
+Little_FS_write/Little_FS_write.ino - Little_FS_write/Little_FS_write.ino;0x13F6FE10
+Little_FS_write/Little_FS_write.ino.bootloader - Little_FS_write/Little_FS_write.ino.bootloader;0x9843C7B5
+Little_FS_write/Little_FS_write.ino.partitions - Little_FS_write/Little_FS_write.ino.partitions;0x381F5EFE
+show_specification/show_specification.ino.bootloader - show_specification/show_specification.ino.bootloader;0x9843C7B5
+show_specification/show_specification.ino - show_specification/show_specification.ino;0x2A45134D
+show_specification/show_specification.ino.merged - show_specification/show_specification.ino.merged;0x70809F4B
+show_specification/show_specification.ino.partitions - show_specification/show_specification.ino.partitions;0x381F5EFE
+Multi_Geolocate/Multi_Geolocate.ino.partitions - Multi_Geolocate/Multi_Geolocate.ino.partitions;0x381F5EFE
+Multi_Geolocate/Multi_Geolocate.ino.merged - Multi_Geolocate/Multi_Geolocate.ino.merged;0xDFD09091
+Multi_Geolocate/Multi_Geolocate.ino - Multi_Geolocate/Multi_Geolocate.ino;0x04AB530D
+Multi_Geolocate/Multi_Geolocate.ino.bootloader - Multi_Geolocate/Multi_Geolocate.ino.bootloader;0x9843C7B5
+Canarin_V02webserial/Canarin_V02webserial.ino.partitions - Canarin_V02webserial/Canarin_V02webserial.ino.partitions;0x381F5EFE
+Canarin_V02webserial/Canarin_V02webserial.ino.merged - Canarin_V02webserial/Canarin_V02webserial.ino.merged;0xF87832EA
+Canarin_V02webserial/Canarin_V02webserial.ino - Canarin_V02webserial/Canarin_V02webserial.ino;0xA729B4EC
+Canarin_V02webserial/Canarin_V02webserial.ino.bootloader - Canarin_V02webserial/Canarin_V02webserial.ino.bootloader;0x9843C7B5
+Flash_write/Flash_write.ino.partitions - Flash_write/Flash_write.ino.partitions;0x381F5EFE
+Flash_write/Flash_write.ino.merged - Flash_write/Flash_write.ino.merged;0xF30F4C98
+Flash_write/Flash_write.ino.bootloader - Flash_write/Flash_write.ino.bootloader;0x9843C7B5
+Flash_write/Flash_write.ino - Flash_write/Flash_write.ino;0x917E1FAD
+GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.merged - GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.merged;0x91668886
+GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.partitions - GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.partitions;0x381F5EFE
+GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino - GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino;0x8247F661
+GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.bootloader - GSM_HTTPS_Send_Download/GSM_HTTPS_Send_Download.ino.bootloader;0x9843C7B5
+WiFi_Connect/WiFi_Connect.ino - WiFi_Connect/WiFi_Connect.ino;0x45A51F1E
+WiFi_Connect/WiFi_Connect.ino.partitions - WiFi_Connect/WiFi_Connect.ino.partitions;0x381F5EFE
+WiFi_Connect/WiFi_Connect.ino.merged - WiFi_Connect/WiFi_Connect.ino.merged;0x73526FAF
+WiFi_Connect/WiFi_Connect.ino.bootloader - WiFi_Connect/WiFi_Connect.ino.bootloader;0x9843C7B5
+TaskCommunication/TaskCommunication.ino - TaskCommunication/TaskCommunication.ino;0xAAD5C5C1
+TaskCommunication/TaskCommunication.ino.bootloader - TaskCommunication/TaskCommunication.ino.bootloader;0x9843C7B5
+TaskCommunication/TaskCommunication.ino.merged - TaskCommunication/TaskCommunication.ino.merged;0x820C06E3
+TaskCommunication/TaskCommunication.ino.partitions - TaskCommunication/TaskCommunication.ino.partitions;0x381F5EFE
+CanarinOTA/CanarinOTA.ino - CanarinOTA/CanarinOTA.ino;0x28FFD1FD
+CanarinOTA/CanarinOTA.ino.partitions - CanarinOTA/CanarinOTA.ino.partitions;0x381F5EFE
+CanarinOTA/CanarinOTA.ino.merged - CanarinOTA/CanarinOTA.ino.merged;0xFA9113A9
+CanarinOTA/CanarinOTA.ino.bootloader - CanarinOTA/CanarinOTA.ino.bootloader;0x9843C7B5
+Basic/Basic.ino - Basic/Basic.ino;0xA4670683
+Basic/Basic.ino.partitions - Basic/Basic.ino.partitions;0x381F5EFE
+Basic/Basic.ino.merged - Basic/Basic.ino.merged;0x7BE64CCB
+Basic/Basic.ino.bootloader - Basic/Basic.ino.bootloader;0x9843C7B5
+TaskCommunication_split/TaskCommunication_split.ino.partitions - TaskCommunication_split/TaskCommunication_split.ino.partitions;0x381F5EFE
+TaskCommunication_split/TaskCommunication_split.ino.merged - TaskCommunication_split/TaskCommunication_split.ino.merged;0xC7AD8287
+TaskCommunication_split/TaskCommunication_split.ino.bootloader - TaskCommunication_split/TaskCommunication_split.ino.bootloader;0x9843C7B5
+TaskCommunication_split/TaskCommunication_split.ino - TaskCommunication_split/TaskCommunication_split.ino;0xEAF6A538
+CanarinPicoV1.4/CanarinPicoV1.4.ino.partitions - CanarinPicoV1.4/CanarinPicoV1.4.ino.partitions;0x381F5EFE
+CanarinPicoV1.4/CanarinPicoV1.4.ino.bootloader - CanarinPicoV1.4/CanarinPicoV1.4.ino.bootloader;0x9843C7B5
+CanarinPicoV1.4/CanarinPicoV1.4.ino.merged - CanarinPicoV1.4/CanarinPicoV1.4.ino.merged;0x1B320BFE
+CanarinPicoV1.4/CanarinPicoV1.4.ino - CanarinPicoV1.4/CanarinPicoV1.4.ino;0xB0FB9DD1
+Update_From_FS/Update_From_FS.ino.merged - Update_From_FS/Update_From_FS.ino.merged;0x773C85C6
+Update_From_FS/Update_From_FS.ino.bootloader - Update_From_FS/Update_From_FS.ino.bootloader;0x9843C7B5
+Update_From_FS/Update_From_FS.ino.partitions - Update_From_FS/Update_From_FS.ino.partitions;0x381F5EFE
+Update_From_FS/Update_From_FS.ino - Update_From_FS/Update_From_FS.ino;0x5100C926
+Canarin_sampling/Canarin_sampling.ino.bootloader - Canarin_sampling/Canarin_sampling.ino.bootloader;0x9843C7B5
+Canarin_sampling/Canarin_sampling.ino - Canarin_sampling/Canarin_sampling.ino;0x6153289F
+Canarin_sampling/Canarin_sampling.ino.merged - Canarin_sampling/Canarin_sampling.ino.merged;0xA6712E0E
+Canarin_sampling/Canarin_sampling.ino.partitions - Canarin_sampling/Canarin_sampling.ino.partitions;0x381F5EFE
+CanarinPicoV1.3/CanarinPicoV1.3.ino.bootloader - CanarinPicoV1.3/CanarinPicoV1.3.ino.bootloader;0x9843C7B5
+CanarinPicoV1.3/CanarinPicoV1.3.ino - CanarinPicoV1.3/CanarinPicoV1.3.ino;0xF06058A1
+CanarinPicoV1.3/CanarinPicoV1.3.ino.partitions - CanarinPicoV1.3/CanarinPicoV1.3.ino.partitions;0x381F5EFE
+CanarinPicoV1.3/CanarinPicoV1.3.ino.merged - CanarinPicoV1.3/CanarinPicoV1.3.ino.merged;0x3B9EB6DD
+GPS_setup/GPS_setup.ino.merged - GPS_setup/GPS_setup.ino.merged;0x723D3966
+GPS_setup/GPS_setup.ino.bootloader - GPS_setup/GPS_setup.ino.bootloader;0x9843C7B5
+GPS_setup/GPS_setup.ino - GPS_setup/GPS_setup.ino;0x29FDEBC5
+GPS_setup/GPS_setup.ino.partitions - GPS_setup/GPS_setup.ino.partitions;0x381F5EFE
+WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.merged - WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.merged;0x789486A4
+WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino - WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino;0x4D0DDFF9
+WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.bootloader - WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.bootloader;0x9843C7B5
+WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.partitions - WiFi_HTTPS_Send_Download/WiFi_HTTPS_Send_Download.ino.partitions;0x381F5EFE
+Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino - Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino;0x2F4FF116
+Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.bootloader - Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.bootloader;0x9843C7B5
+Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.merged - Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.merged;0xB9C6B193
+Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.partitions - Canarin_V02webserialOTA/Canarin_V02webserialOTA.ino.partitions;0x381F5EFE
+CanarinPicoV1.2/CanarinPicoV1.2.ino.partitions - CanarinPicoV1.2/CanarinPicoV1.2.ino.partitions;0x381F5EFE
+CanarinPicoV1.2/CanarinPicoV1.2.ino - CanarinPicoV1.2/CanarinPicoV1.2.ino;0xDAEBCB2B
+CanarinPicoV1.2/CanarinPicoV1.2.ino.merged - CanarinPicoV1.2/CanarinPicoV1.2.ino.merged;0x6F3195A6
+CanarinPicoV1.2/CanarinPicoV1.2.ino.bootloader - CanarinPicoV1.2/CanarinPicoV1.2.ino.bootloader;0x9843C7B5
+Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.merged - Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.merged;0x7B3452FF
+Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.bootloader - Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.bootloader;0x9843C7B5
+Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino - Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino;0x6BD7AFAB
+Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.partitions - Canarin_Configuration_Setup/Canarin_Configuration_Setup.ino.partitions;0x381F5EFE
+CanarinPicoV1.5/CanarinPicoV1.5.ino.bootloader - CanarinPicoV1.5/CanarinPicoV1.5.ino.bootloader;0x9843C7B5
+CanarinPicoV1.5/CanarinPicoV1.5.ino - CanarinPicoV1.5/CanarinPicoV1.5.ino;0xA5D8600D
+CanarinPicoV1.5/CanarinPicoV1.5.ino.partitions - CanarinPicoV1.5/CanarinPicoV1.5.ino.partitions;0x381F5EFE
+CanarinPicoV1.5/CanarinPicoV1.5.ino.merged - CanarinPicoV1.5/CanarinPicoV1.5.ino.merged;0x72C0BDBA
+Flash_erase/Flash_erase.ino.partitions - Flash_erase/Flash_erase.ino.partitions;0x381F5EFE
+Flash_erase/Flash_erase.ino.merged - Flash_erase/Flash_erase.ino.merged;0x10DB2C7B
+Flash_erase/Flash_erase.ino - Flash_erase/Flash_erase.ino;0x551AB517
+Flash_erase/Flash_erase.ino.bootloader - Flash_erase/Flash_erase.ino.bootloader;0x9843C7B5
+MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.partitions - MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.partitions;0x381F5EFE
+MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.merged - MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.merged;0x94A90AF8
+MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.bootloader - MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino.bootloader;0x9843C7B5
+MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino - MultiConnect_UDP_Send/MultiConnect_UDP_Send.ino;0x8B912A91
+WiFi_Location/WiFi_Location.ino.bootloader - WiFi_Location/WiFi_Location.ino.bootloader;0x9843C7B5
+WiFi_Location/WiFi_Location.ino - WiFi_Location/WiFi_Location.ino;0xF7D45342
+WiFi_Location/WiFi_Location.ino.merged - WiFi_Location/WiFi_Location.ino.merged;0x82EE7161
+WiFi_Location/WiFi_Location.ino.partitions - WiFi_Location/WiFi_Location.ino.partitions;0x381F5EFE
+Canarin_PM_sample/Canarin_PM_sample.ino.partitions - Canarin_PM_sample/Canarin_PM_sample.ino.partitions;0x381F5EFE
+Canarin_PM_sample/Canarin_PM_sample.ino - Canarin_PM_sample/Canarin_PM_sample.ino;0xC7C50D3C
+Canarin_PM_sample/Canarin_PM_sample.ino.bootloader - Canarin_PM_sample/Canarin_PM_sample.ino.bootloader;0x9843C7B5
+Canarin_PM_sample/Canarin_PM_sample.ino.merged - Canarin_PM_sample/Canarin_PM_sample.ino.merged;0x40BE6A78
+my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino - my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino;0x0E36E6F1
+my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.bootloader - my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.bootloader;0x9843C7B5
+my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.merged - my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.merged;0xDADCA75F
+my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.partitions - my_WiFi_CanarinOTA/my_WiFi_CanarinOTA.ino.partitions;0x381F5EFE
+Canarin_SGP_sample/Canarin_SGP_sample.ino.bootloader - Canarin_SGP_sample/Canarin_SGP_sample.ino.bootloader;0x9843C7B5
+Canarin_SGP_sample/Canarin_SGP_sample.ino.partitions - Canarin_SGP_sample/Canarin_SGP_sample.ino.partitions;0x381F5EFE
+Canarin_SGP_sample/Canarin_SGP_sample.ino.merged - Canarin_SGP_sample/Canarin_SGP_sample.ino.merged;0x9311B762
+Canarin_SGP_sample/Canarin_SGP_sample.ino - Canarin_SGP_sample/Canarin_SGP_sample.ino;0xD604BF92
+SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.bootloader - SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.bootloader;0x9843C7B5
+SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino - SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino;0xE21CBC74
+SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.merged - SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.merged;0x0F726D34
+SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.partitions - SPIFFS_wdt_Ariele/SPIFFS_wdt_Ariele.ino.partitions;0x381F5EFE
+SPIFFS_write/SPIFFS_write.ino.bootloader - SPIFFS_write/SPIFFS_write.ino.bootloader;0x9843C7B5
+SPIFFS_write/SPIFFS_write.ino.partitions - SPIFFS_write/SPIFFS_write.ino.partitions;0x381F5EFE
+SPIFFS_write/SPIFFS_write.ino.merged - SPIFFS_write/SPIFFS_write.ino.merged;0x371EC125
+SPIFFS_write/SPIFFS_write.ino - SPIFFS_write/SPIFFS_write.ino;0x8DBBA8B0
+SPIFFS_format/SPIFFS_format.ino.partitions - SPIFFS_format/SPIFFS_format.ino.partitions;0x381F5EFE
+SPIFFS_format/SPIFFS_format.ino.merged - SPIFFS_format/SPIFFS_format.ino.merged;0x7B82AE65
+SPIFFS_format/SPIFFS_format.ino - SPIFFS_format/SPIFFS_format.ino;0xCFDE0125
+SPIFFS_format/SPIFFS_format.ino.bootloader - SPIFFS_format/SPIFFS_format.ino.bootloader;0x9843C7B5
+taskMeasurements/taskMeasurements.ino.merged - taskMeasurements/taskMeasurements.ino.merged;0x2E30C9D4
+taskMeasurements/taskMeasurements.ino.partitions - taskMeasurements/taskMeasurements.ino.partitions;0x381F5EFE
+taskMeasurements/taskMeasurements.ino - taskMeasurements/taskMeasurements.ino;0x90A2F010
+taskMeasurements/taskMeasurements.ino.bootloader - taskMeasurements/taskMeasurements.ino.bootloader;0x9843C7B5
+Create_Request/Create_Request.ino.merged - Create_Request/Create_Request.ino.merged;0xC6EBD918
+Create_Request/Create_Request.ino.bootloader - Create_Request/Create_Request.ino.bootloader;0x9843C7B5
+Create_Request/Create_Request.ino - Create_Request/Create_Request.ino;0xD57B9645
+Create_Request/Create_Request.ino.partitions - Create_Request/Create_Request.ino.partitions;0x381F5EFE
+Little_FS_write_erase/Little_FS_write_erase.ino - Little_FS_write_erase/Little_FS_write_erase.ino;0x7A60F7A7
+Little_FS_write_erase/Little_FS_write_erase.ino.partitions - Little_FS_write_erase/Little_FS_write_erase.ino.partitions;0x381F5EFE
+Little_FS_write_erase/Little_FS_write_erase.ino.merged - Little_FS_write_erase/Little_FS_write_erase.ino.merged;0xC006D903
+Little_FS_write_erase/Little_FS_write_erase.ino.bootloader - Little_FS_write_erase/Little_FS_write_erase.ino.bootloader;0x9843C7B5
+SPIFFS_Ariele/SPIFFS_Ariele.ino.partitions - SPIFFS_Ariele/SPIFFS_Ariele.ino.partitions;0x381F5EFE
+SPIFFS_Ariele/SPIFFS_Ariele.ino - SPIFFS_Ariele/SPIFFS_Ariele.ino;0x2CDAD837
+SPIFFS_Ariele/SPIFFS_Ariele.ino.bootloader - SPIFFS_Ariele/SPIFFS_Ariele.ino.bootloader;0x9843C7B5
+SPIFFS_Ariele/SPIFFS_Ariele.ino.merged - SPIFFS_Ariele/SPIFFS_Ariele.ino.merged;0xB00BDD5E
+Canarin_V02webserial_/Canarin_V02webserial_.ino.partitions - Canarin_V02webserial_/Canarin_V02webserial_.ino.partitions;0x381F5EFE
+Canarin_V02webserial_/Canarin_V02webserial_.ino - Canarin_V02webserial_/Canarin_V02webserial_.ino;0x5ABA10CA
+Canarin_V02webserial_/Canarin_V02webserial_.ino.merged - Canarin_V02webserial_/Canarin_V02webserial_.ino.merged;0x92891719
+Canarin_V02webserial_/Canarin_V02webserial_.ino.bootloader - Canarin_V02webserial_/Canarin_V02webserial_.ino.bootloader;0x9843C7B5
+parseResponseUnique/parseResponseUnique.ino.partitions - parseResponseUnique/parseResponseUnique.ino.partitions;0x381F5EFE
+parseResponseUnique/parseResponseUnique.ino.merged - parseResponseUnique/parseResponseUnique.ino.merged;0xF680B70D
+parseResponseUnique/parseResponseUnique.ino - parseResponseUnique/parseResponseUnique.ino;0x11D865C8
+parseResponseUnique/parseResponseUnique.ino.bootloader - parseResponseUnique/parseResponseUnique.ino.bootloader;0x9843C7B5
+Canarin_PMU/Canarin_PMU.ino.merged - Canarin_PMU/Canarin_PMU.ino.merged;0xF655A57F
+Canarin_PMU/Canarin_PMU.ino.bootloader - Canarin_PMU/Canarin_PMU.ino.bootloader;0x9843C7B5
+Canarin_PMU/Canarin_PMU.ino.partitions - Canarin_PMU/Canarin_PMU.ino.partitions;0x381F5EFE
+Canarin_PMU/Canarin_PMU.ino - Canarin_PMU/Canarin_PMU.ino;0xB2F5E2DB
+Canarin_BME_sample/Canarin_BME_sample.ino.bootloader - Canarin_BME_sample/Canarin_BME_sample.ino.bootloader;0x9843C7B5
+Canarin_BME_sample/Canarin_BME_sample.ino.merged - Canarin_BME_sample/Canarin_BME_sample.ino.merged;0x803F6E64
+Canarin_BME_sample/Canarin_BME_sample.ino - Canarin_BME_sample/Canarin_BME_sample.ino;0xCC534A1E
+Canarin_BME_sample/Canarin_BME_sample.ino.partitions - Canarin_BME_sample/Canarin_BME_sample.ino.partitions;0x381F5EFE
+deserializeDeviceConfig/deserializeDeviceConfig.ino - deserializeDeviceConfig/deserializeDeviceConfig.ino;0x98F4480E
+deserializeDeviceConfig/deserializeDeviceConfig.ino.partitions - deserializeDeviceConfig/deserializeDeviceConfig.ino.partitions;0x381F5EFE
+deserializeDeviceConfig/deserializeDeviceConfig.ino.bootloader - deserializeDeviceConfig/deserializeDeviceConfig.ino.bootloader;0x9843C7B5
+deserializeDeviceConfig/deserializeDeviceConfig.ino.merged - deserializeDeviceConfig/deserializeDeviceConfig.ino.merged;0x3D376D5B
+motion_detection/motion_detection.ino.partitions - motion_detection/motion_detection.ino.partitions;0x381F5EFE
+motion_detection/motion_detection.ino - motion_detection/motion_detection.ino;0x9A848DAA
+motion_detection/motion_detection.ino.bootloader - motion_detection/motion_detection.ino.bootloader;0x9843C7B5
+motion_detection/motion_detection.ino.merged - motion_detection/motion_detection.ino.merged;0x110C8B50
+SPIFFS_setup/SPIFFS_setup.ino - SPIFFS_setup/SPIFFS_setup.ino;0xCA87D572
+SPIFFS_setup/SPIFFS_setup.ino.bootloader - SPIFFS_setup/SPIFFS_setup.ino.bootloader;0x9843C7B5
+SPIFFS_setup/SPIFFS_setup.ino.merged - SPIFFS_setup/SPIFFS_setup.ino.merged;0xE07F3B1F
+SPIFFS_setup/SPIFFS_setup.ino.partitions - SPIFFS_setup/SPIFFS_setup.ino.partitions;0x381F5EFE
+Expert/Expert.ino - Expert/Expert.ino;0x5502D2CB
+Expert/Expert.ino.partitions - Expert/Expert.ino.partitions;0x381F5EFE
+Expert/Expert.ino.merged - Expert/Expert.ino.merged;0xCD1750FB
+Expert/Expert.ino.bootloader - Expert/Expert.ino.bootloader;0x9843C7B5
+serializeDeviceConfig/serializeDeviceConfig.ino.merged - serializeDeviceConfig/serializeDeviceConfig.ino.merged;0x32D13E10
+serializeDeviceConfig/serializeDeviceConfig.ino - serializeDeviceConfig/serializeDeviceConfig.ino;0x84EF8EA1
+serializeDeviceConfig/serializeDeviceConfig.ino.partitions - serializeDeviceConfig/serializeDeviceConfig.ino.partitions;0x381F5EFE
+serializeDeviceConfig/serializeDeviceConfig.ino.bootloader - serializeDeviceConfig/serializeDeviceConfig.ino.bootloader;0x9843C7B5
+CanarinPicoV1.7/CanarinPicoV1.7.ino.partitions - CanarinPicoV1.7/CanarinPicoV1.7.ino.partitions;0x381F5EFE
+CanarinPicoV1.7/CanarinPicoV1.7.ino.merged - CanarinPicoV1.7/CanarinPicoV1.7.ino.merged;0x90578F87
+CanarinPicoV1.7/CanarinPicoV1.7.ino - CanarinPicoV1.7/CanarinPicoV1.7.ino;0x20390DE7
+CanarinPicoV1.7/CanarinPicoV1.7.ino.bootloader - CanarinPicoV1.7/CanarinPicoV1.7.ino.bootloader;0x9843C7B5
+MultiConnect_Connect/MultiConnect_Connect.ino - MultiConnect_Connect/MultiConnect_Connect.ino;0xBCD1553C
+MultiConnect_Connect/MultiConnect_Connect.ino.partitions - MultiConnect_Connect/MultiConnect_Connect.ino.partitions;0x381F5EFE
+MultiConnect_Connect/MultiConnect_Connect.ino.merged - MultiConnect_Connect/MultiConnect_Connect.ino.merged;0x8DBC9BC9
+MultiConnect_Connect/MultiConnect_Connect.ino.bootloader - MultiConnect_Connect/MultiConnect_Connect.ino.bootloader;0x9843C7B5
+SPIFFS_write_erase/SPIFFS_write_erase.ino.merged - SPIFFS_write_erase/SPIFFS_write_erase.ino.merged;0x845EA8DA
+SPIFFS_write_erase/SPIFFS_write_erase.ino.partitions - SPIFFS_write_erase/SPIFFS_write_erase.ino.partitions;0x381F5EFE
+SPIFFS_write_erase/SPIFFS_write_erase.ino - SPIFFS_write_erase/SPIFFS_write_erase.ino;0xD4D855EF
+SPIFFS_write_erase/SPIFFS_write_erase.ino.bootloader - SPIFFS_write_erase/SPIFFS_write_erase.ino.bootloader;0x9843C7B5
+MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.partitions - MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.partitions;0x381F5EFE
+MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.merged - MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.merged;0x485AB6EF
+MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.bootloader - MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino.bootloader;0x9843C7B5
+MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino - MultiConnect_HTTPS_Send_Download/MultiConnect_HTTPS_Send_Download.ino;0x88EBC566
+GSM_Location/GSM_Location.ino.partitions - GSM_Location/GSM_Location.ino.partitions;0x381F5EFE
+GSM_Location/GSM_Location.ino.merged - GSM_Location/GSM_Location.ino.merged;0x1A558873
+GSM_Location/GSM_Location.ino - GSM_Location/GSM_Location.ino;0x73D4B0E8
+GSM_Location/GSM_Location.ino.bootloader - GSM_Location/GSM_Location.ino.bootloader;0x9843C7B5
+pixels_Ariele/pixels_Ariele.ino.bootloader - pixels_Ariele/pixels_Ariele.ino.bootloader;0x9843C7B5
+pixels_Ariele/pixels_Ariele.ino.merged - pixels_Ariele/pixels_Ariele.ino.merged;0x6E5EAD90
+pixels_Ariele/pixels_Ariele.ino - pixels_Ariele/pixels_Ariele.ino;0x4E9C4B76
+pixels_Ariele/pixels_Ariele.ino.partitions - pixels_Ariele/pixels_Ariele.ino.partitions;0x381F5EFE
+Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.bootloader - Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.bootloader;0x9843C7B5
+Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino - Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino;0x5BC4E319
+Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.merged - Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.merged;0x9BC49198
+Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.partitions - Canarin_V02webserialOTA_apm/Canarin_V02webserialOTA_apm.ino.partitions;0x381F5EFE
+CanarinPicoV1.6/CanarinPicoV1.6.ino.bootloader - CanarinPicoV1.6/CanarinPicoV1.6.ino.bootloader;0x9843C7B5
+CanarinPicoV1.6/CanarinPicoV1.6.ino - CanarinPicoV1.6/CanarinPicoV1.6.ino;0x6B60C32F
+CanarinPicoV1.6/CanarinPicoV1.6.ino.merged - CanarinPicoV1.6/CanarinPicoV1.6.ino.merged;0x88A1E19B
+CanarinPicoV1.6/CanarinPicoV1.6.ino.partitions - CanarinPicoV1.6/CanarinPicoV1.6.ino.partitions;0x381F5EFE
+CanarinPicoV1.1/CanarinPicoV1.1.ino - CanarinPicoV1.1/CanarinPicoV1.1.ino;0x9353D6EF
+CanarinPicoV1.1/CanarinPicoV1.1.ino.partitions - CanarinPicoV1.1/CanarinPicoV1.1.ino.partitions;0x381F5EFE
+CanarinPicoV1.1/CanarinPicoV1.1.ino.merged - CanarinPicoV1.1/CanarinPicoV1.1.ino.merged;0x102FCB4A
+CanarinPicoV1.1/CanarinPicoV1.1.ino.bootloader - CanarinPicoV1.1/CanarinPicoV1.1.ino.bootloader;0x9843C7B5
+GPS_Geolocate/GPS_Geolocate.ino.bootloader - GPS_Geolocate/GPS_Geolocate.ino.bootloader;0x9843C7B5
+GPS_Geolocate/GPS_Geolocate.ino.partitions - GPS_Geolocate/GPS_Geolocate.ino.partitions;0x381F5EFE
+GPS_Geolocate/GPS_Geolocate.ino - GPS_Geolocate/GPS_Geolocate.ino;0xA82609D7
+GPS_Geolocate/GPS_Geolocate.ino.merged - GPS_Geolocate/GPS_Geolocate.ino.merged;0x3B812063

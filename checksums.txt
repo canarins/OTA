@@ -259,8 +259,8 @@ serializeDeviceConfig/serializeDeviceConfig.ino - serializeDeviceConfig/serializ
 serializeDeviceConfig/serializeDeviceConfig.ino.partitions - serializeDeviceConfig/serializeDeviceConfig.ino.partitions;0x381F5EFE
 serializeDeviceConfig/serializeDeviceConfig.ino.bootloader - serializeDeviceConfig/serializeDeviceConfig.ino.bootloader;0x9843C7B5
 CanarinPicoV1.7/CanarinPicoV1.7.ino.partitions - CanarinPicoV1.7/CanarinPicoV1.7.ino.partitions;0x381F5EFE
-CanarinPicoV1.7/CanarinPicoV1.7.ino.merged - CanarinPicoV1.7/CanarinPicoV1.7.ino.merged;0x24E1E63B
-CanarinPicoV1.7/CanarinPicoV1.7.ino - CanarinPicoV1.7/CanarinPicoV1.7.ino;0xF2D868F7
+CanarinPicoV1.7/CanarinPicoV1.7.ino.merged - CanarinPicoV1.7/CanarinPicoV1.7.ino.merged;0x9F65AE41
+CanarinPicoV1.7/CanarinPicoV1.7.ino - CanarinPicoV1.7/CanarinPicoV1.7.ino;0x94A08325
 CanarinPicoV1.7/CanarinPicoV1.7.ino.bootloader - CanarinPicoV1.7/CanarinPicoV1.7.ino.bootloader;0x9843C7B5
 MultiConnect_Connect/MultiConnect_Connect.ino - MultiConnect_Connect/MultiConnect_Connect.ino;0x15C08790
 MultiConnect_Connect/MultiConnect_Connect.ino.partitions - MultiConnect_Connect/MultiConnect_Connect.ino.partitions;0x381F5EFE

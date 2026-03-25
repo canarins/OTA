@@ -2,7 +2,7 @@
   "product": "nest",
   "version": "1.0.1",
   "file": "nest-1.0.1.bin",
-  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.0.1.bin",
+  "url": "http://canarin-alb-423477617.eu-west-3.elb.amazonaws.com/ota/firmware.bin",
   "md5": "143f30e6d3950e183a3e4138ea61c6ce",
   "size": 1124816,
   "date": "2026-03-25",

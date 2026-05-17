@@ -1,0 +1,30 @@
+# ──────────────────────────────────────────────────────────────
+# Arduino / ESP32 build artifacts — NEVER commit
+# (this repo went from ~2 MB to 1.3 GB on disk because these
+# got pushed historically; tree is now clean, history retained)
+# ──────────────────────────────────────────────────────────────
+*.elf
+*.map
+*.bin.elf
+*.partitions.bin
+build/
+.build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build outputs (firmware .bin files are intentionally KEPT —
+# devices fetch them via raw.githubusercontent.com)
+# *.bin                ← do NOT ignore; these are OTA payloads
+
+# IDE / OS noise
+.DS_Store
+.vscode/
+*.swp
+
+# Secrets — extra layer (should never be here anyway)
+*.pem
+*.key
+secrets.h
+*credentials*.h
+.env

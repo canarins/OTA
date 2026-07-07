@@ -1,10 +1,13 @@
 {
   "product": "nest",
-  "version": "1.0.1",
-  "file": "nest-1.0.1.bin",
-  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.0.1.bin",
-  "md5": "817d9383d2b7b6ad8c6b97ee76f4e257",
-  "size": 1133360,
-  "date": "2026-03-26",
-  "notes": "GPS relay from app, responsive dashboard, OTA via Birdhouse, /update-fs endpoint"
+  "version": "1.2.0-ips7100",
+  "file": "nest-1.2.0.bin",
+  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.2.0.bin",
+  "md5": "daebf91f06c75deaa2a592aca2016600",
+  "sha256": "15ad19bcb9f1cbea5eb44a8178ed0d1d0a59baaa06658667fabc506770493662",
+  "signature": "MEUCIDKHOiQeCikwUTjzXmPvMod+79PhORmxQ5SZSCAB2ljUAiEA0NHcZH1h3RIWOp71PkFOoyo1LCiuSUo8IqLmtpKXXL0=",
+  "size": 1157568,
+  "signed_with": "ECDSA-P256-SHA256",
+  "date": "2026-07-07",
+  "notes": "Femto+ 7 classes IPS-7100 (VIDs 70-73/80-86). Build public sans secret."
 }

@@ -1,13 +1,13 @@
 {
   "product": "nest",
-  "version": "1.2.1-ips7100",
-  "file": "nest-1.2.1.bin",
-  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.2.1.bin",
-  "md5": "506780acd21878ceb65d2b1b1ff06179",
-  "sha256": "93900e2c8a2f3d043fad50ed71737007024f04ecb710b085cc18eb0881ba1459",
-  "signature": "MEUCIFX9S6kMp4niAJO90LuCWwqLCDGrO7IZUvLr4WvkV61RAiEAgReUzhFDtqQzUvXh6AdOXbyxcsTVbCyu4OffiMwBi6s=",
-  "size": 1168032,
+  "version": "1.2.2-ips7100",
+  "file": "nest-1.2.2.bin",
+  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.2.2.bin",
+  "md5": "01e501c211b5b67b03537683063f1399",
+  "sha256": "29575922f1ad0583b394d3a2542ad4923ecb3c32272beda0f42b241cc2f918de",
+  "signature": "MEQCIHbIlmpZjisgFovjQrwKUZpe7uhuw47WWa03M373HiRhAiATjmX3i94MYEcRW44YmVUcQM+4KvbTUJBQJOtFox4HjQ==",
+  "size": 1168704,
   "signed_with": "ECDSA-P256-SHA256",
   "date": "2026-07-10",
-  "notes": "Firmware review fixes (OTA security, 8MB partitions, offline drain, periodic OTA) + regenerated signing key. Same features as 1.2.0."
+  "notes": "CA fix (ISRG Root X1) enabling OTA over GitHub TLS. Review fixes + regenerated signing key."
 }

@@ -2,7 +2,7 @@
   "product": "nest",
   "version": "1.2.2-ips7100",
   "file": "nest-1.2.2.bin",
-  "url": "https://raw.githubusercontent.com/canarins/OTA/main/nest/nest-1.2.2.bin",
+  "url": "http://canarin-alb-423477617.eu-west-3.elb.amazonaws.com/ota/firmware/nest",
   "md5": "01e501c211b5b67b03537683063f1399",
   "sha256": "29575922f1ad0583b394d3a2542ad4923ecb3c32272beda0f42b241cc2f918de",
   "signature": "MEQCIHbIlmpZjisgFovjQrwKUZpe7uhuw47WWa03M373HiRhAiATjmX3i94MYEcRW44YmVUcQM+4KvbTUJBQJOtFox4HjQ==",

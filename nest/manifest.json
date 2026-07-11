@@ -1,13 +1,13 @@
 {
   "product": "nest",
-  "version": "1.2.2-ips7100",
-  "file": "nest-1.2.2.bin",
+  "version": "1.2.3-ips7100",
+  "file": "nest-1.2.3.bin",
   "url": "http://canarin-alb-423477617.eu-west-3.elb.amazonaws.com/ota/firmware/nest",
-  "md5": "01e501c211b5b67b03537683063f1399",
-  "sha256": "29575922f1ad0583b394d3a2542ad4923ecb3c32272beda0f42b241cc2f918de",
-  "signature": "MEQCIHbIlmpZjisgFovjQrwKUZpe7uhuw47WWa03M373HiRhAiATjmX3i94MYEcRW44YmVUcQM+4KvbTUJBQJOtFox4HjQ==",
-  "size": 1168704,
+  "md5": "95c5961254b7daf2d039648590571161",
+  "sha256": "c8671d806f16f0ea0c69fbdff19c0ac5e4a35fd4ff836f9bc47843aa781563d1",
+  "signature": "MEYCIQClEwVwCCOYV4C74DPQuJe0llv5EHTs3hw/Hv7ERxB3swIhAOtBIBMN5BYCxanjOPm24CvZo7zHe4UQdWeG09zvimS2",
+  "size": 1166352,
   "signed_with": "ECDSA-P256-SHA256",
-  "date": "2026-07-10",
-  "notes": "CA fix (ISRG Root X1) enabling OTA over GitHub TLS. Review fixes + regenerated signing key."
+  "date": "2026-07-11",
+  "notes": "OTA via ALB HTTP proxy + non-blocking /api/ota handlers (#4)."
 }

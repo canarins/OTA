@@ -1,13 +1,13 @@
 {
     "product": "femto",
-    "version": "1.1.0-femto",
-    "file": "femto-1.1.0-femto.bin",
-    "url": "https://github.com/canarins/OTA/releases/download/femto-v1.1.0-femto/femto-1.1.0-femto.bin",
-    "md5": "966072d8c02314bd6deb235a82519b0b",
-    "sha256": "ba84af40735c218734bae0afdad5d7dcdc7f4d3fb494e8c033fe062fa700e35a",
-    "signature": "MEYCIQCrTnuUhMBfKM4Too2H1ITm7agPWNE6DTd86YhAc0HDSwIhAIPZdcFWRBq0u9E/TVV1OQVWgtWmTbeCWG5lXPocr1QH",
-    "size": 1140384,
+    "version": "1.1.1-femto",
+    "file": "femto-1.1.1-femto.bin",
+    "url": "https://github.com/canarins/OTA/releases/download/femto-v1.1.1-femto/femto-1.1.1-femto.bin",
+    "md5": "bbe7e311e36898db844467889f5379d0",
+    "sha256": "b113b47293656a89af2fbf56d4eb6298ec753a87772e24d4db037462806c8e60",
+    "signature": "MEYCIQDqOoOwOVmQMyaF8sTcLlr9YiXV3b/zP767HHhgct1OpgIhANFdPSdtebZFaZbQb7gkqIgNUVq553OXZ7p2mzDxrmZf",
+    "size": 1143984,
     "signed_with": "ECDSA-P256-SHA256",
-    "date": "2026-09-23",
-    "notes": "Canarin femto firmware 1.1.0-femto"
+    "date": "2026-11-11",
+    "notes": "Canarin femto firmware 1.1.1-femto"
 }
